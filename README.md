@@ -1,9 +1,6 @@
 Get started
 ===========
-
-This is an example setup for react-materialize and webpack.
-
-run the example with:
+Run:
 
     npm install
     npm run start
