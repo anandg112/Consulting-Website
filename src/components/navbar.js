@@ -2,7 +2,7 @@ import React from "react";
 import { SideNav, Navbar, NavItem } from "react-materialize";
 
 
-const img = <img src={'../../smallLogo.jpg'}/>
+const img = <img src={'../public/innov.png'}/>
 
 const NavBarItem = ({name}) =>
 <Navbar className='navBar' brand={img} right>
