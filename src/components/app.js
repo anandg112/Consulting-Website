@@ -4,6 +4,8 @@ import ParallaxItem from './parallax';
 import DropdownItem from './dropdown';
 import SectionHeader from './SectionHeader';
 import FooterItem from './footer';
+import AboutUs from "./aboutus";
+import Services from "./services";
 
 export default class App extends React.Component {
   render() {
@@ -11,6 +13,8 @@ export default class App extends React.Component {
     <div>
       <NavBarItem />
       <ParallaxItem />
+      <Services />
+      <AboutUs />
       <SectionHeader />
       <FooterItem />
     </div>
