@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import NavBarItem from './navbar';
 import ParallaxItem from './parallax';
 import DropdownItem from './dropdown';
-import SectionHeader from './SectionHeader';
+import SectionHeader from './sectionheader';
 import FooterItem from './footer';
 import AboutUs from "./aboutus";
 import Services from "./services";
